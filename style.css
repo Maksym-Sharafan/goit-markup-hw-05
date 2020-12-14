@@ -369,13 +369,14 @@ body {
   padding: 27px;
   margin: 0 auto;
 
+  font-weight: 700;
   font-size: 14px;
   line-height: 16px;
   text-align: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 
-  color: #ffffff;
+  color: var(--text-white);
 }
 
 .title {
